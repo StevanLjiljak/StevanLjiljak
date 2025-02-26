@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @StevanLjiljak
-- 👀 I’m interested in Java stack technology 
-- 🌱 I’m currently learning about Microservice Architecture, Integration with Java Ecosystem, Functional interface, Defensive Coding. 
-- 💞️ I’m looking to collaborate on IoT, Telecomunication, BioInformatic, Financial, Gambling and Betting domains.
-- 📫 How to reach me via email dsmljiljak@yahoo.com of via LinkedIn profile https://www.linkedin.com/in/stevan-ljiljak-a4888544/
+- 👋 Hi,
+- 👀 I’m interested in Java stack technology
+- 🌱 I have experience with microservice and monolithic architecture, integration with the Java ecosystem and many other software and architect skills.
+- 💞️ I want to collaborate on AI/ML, IoT, bioinformatics, financial, telecommunications and salesforce domains.
+- 📫 You can reach me via email dsmljiljak@yahoo.com or via LinkedIn profile https://www.linkedin.com/in/stevan-ljiljak-a4888544/
 
 <!---
 StevanLjiljak/StevanLjiljak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
