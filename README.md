@@ -3,6 +3,7 @@
 **Principal Software Engineer** with **14+ years** of experience building scalable, secure, and high-performance systems within the Java ecosystem.
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ljiljak.dev-blue?style=for-the-badge&logo=google-chrome)](https://ljiljak.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-StevanLjiljak-black?style=for-the-badge&logo=github)](https://github.com/StevanLjiljak)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/stevan-ljiljak-a4888544/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:dsmljiljak@yahoo.com)
 
@@ -38,6 +39,21 @@ A global drone services marketplace built entirely from scratch.
 
 ---
 
-📫 **How to reach me:** Feel free to connect on [LinkedIn](https://www.linkedin.com/in/stevan-ljiljak-a4888544/) or send me an [email](mailto:dsmljiljak@yahoo.com).
+## 📌 This Repository
+
+This is the source code for my personal portfolio website at **[ljiljak.dev](https://ljiljak.dev)**.
+
+### Run locally
+
+```bash
+git clone https://github.com/StevanLjiljak/portfolio.git
+cd portfolio
+npm install
+npm run dev
+```
+
+---
+
+📫 **How to reach me:** Visit **[ljiljak.dev](https://ljiljak.dev)**, connect on [LinkedIn](https://www.linkedin.com/in/stevan-ljiljak-a4888544/), or send me an [email](mailto:dsmljiljak@yahoo.com).
 
 ✨ *"Transforming how teams approach software: with clarity, discipline, and pride in craftsmanship."*
